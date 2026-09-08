@@ -7,3 +7,5 @@ PASSIONATE About:
 Photography
 videography
 AI tools export
+
+![Photography](https://img.shields.io/badge/photography-black)
