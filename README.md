@@ -4,7 +4,7 @@ I'm student of computer science and engineering
 
 
 PASSIONATE About:
-Photography
+Photography/n
 videography
 AI tools export
 
